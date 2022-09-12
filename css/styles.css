@@ -1,0 +1,11 @@
+#encabezado {
+    color: red;
+    background-color: blue;
+    height: 80px;
+}
+#datos {
+    color: blueviolet;
+    background-color: bisque;
+    height: 60px;
+
+}
